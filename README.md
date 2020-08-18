@@ -8,4 +8,4 @@ should to remove traffic to make red car out of the board from the only
 way out.
 
 
-![alt text](https://github.com/ahmadkriez/RushHourGame/presenting/rushHour.png?raw=true)
+![rushHour](https://github.com/ahmadkriez/RushHourGame/blob/master/presenting/rushHour.png?raw=true)
